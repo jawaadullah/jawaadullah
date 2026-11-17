@@ -46,6 +46,27 @@ class JawadUllah:
   <img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,git,github,linux,mysql,mongodb,docker,figma,unity,vscode,idea&perline=15" alt="Tech stack" />
 </p>
 
+## 🚀 Featured Project
+
+<table>
+<tr>
+<td>
+
+### 🧑‍🚀 [CrewCare](https://github.com/Muhammad-Hashir-786/CrewCare_Nasa_SpaceApp_Challenge)
+**NASA Space Apps Challenge 2026 · Team Falak · Topi, Pakistan 🇵🇰**
+
+AI-powered astronaut health monitoring and emergency decision-support platform for long-duration space missions. It tracks daily vitals, flags risks with a rules engine, answers health questions through an AI voice assistant (Nova), and walks the crew through emergencies step by step.
+
+**Tech:** Next.js · React · TypeScript · Tailwind CSS · PostgreSQL · Prisma · Google Gemini
+
+**My role:** (write what you built, e.g. "Frontend development and UI design")
+
+[🔗 Live Demo](https://crew-care-nasa-space-app-challenge.vercel.app) · [📂 Source Code](https://github.com/Muhammad-Hashir-786/CrewCare_Nasa_SpaceApp_Challenge)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🌐 Connect With Me
