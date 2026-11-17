@@ -81,9 +81,6 @@ class JawadUllah:
   <img src="https://streak-stats.demolab.com/?user=jawaadullah&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jawaadullah&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
 
 ---
 
